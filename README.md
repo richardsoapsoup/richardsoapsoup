@@ -6,7 +6,7 @@
 ![Github Status](https://github-readme-stats.vercel.app/api?username=richardsoapsoup&show_icons=true&theme=dark&icon_color=00ff00)
 
 ### Legal:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=richardsoapsoup&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=richardsoapsoup&theme=dark&background=000000&icon_color=00ff00)](https://git.io/streak-stats)
 
 
 ### Massa:
