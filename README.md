@@ -3,7 +3,7 @@
 ---
 
 ### Maneiro:
-![Github Status](https://github-readme-stats.vercel.app/api?username=richardsoapsoup&show_icons=true&theme=dark&background=000000)
+![Github Status](https://github-readme-stats.vercel.app/api?username=richardsoapsoup&show_icons=true&theme=dark&background=008000)
 
 ### Legal:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=richardsoapsoup&theme=dark&background=000000)](https://git.io/streak-stats)
